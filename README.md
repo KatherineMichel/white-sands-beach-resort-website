@@ -1,2 +1,2 @@
-magister-template
+sepia-landing-page
 =================
