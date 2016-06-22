@@ -1,3 +1,3 @@
-white-sands-beach-resort-website
-=================
-See gh-pages branch for files
+# White Sands Beach Resort Website
+
+A Bootstrap prototype; See gh-pages branch for files
